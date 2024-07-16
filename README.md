@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=flexycode.flexycode" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=flexyzero.flexyzero" />
 
 <h1 align="center">Hi 👋, I'm Flexy Zephyrus</h1>  
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=♡( •◡-)-♡+૮₍｡´ᴖ ˔ ᴖ`｡₎ა+(｡••。)♡" alt="Typing SVG" /></a></h3>
