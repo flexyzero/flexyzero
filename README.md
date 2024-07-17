@@ -28,6 +28,9 @@
 
 🌐 Kindly visit my other GitHub profile for more content related to Full-stack development and blockchain development<br>
 📫 How to reach me flexyzephyrus@gmail.com<br>  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 ## [Introduction](#introduction)
 <div style="display: flex; justify-content: space-between;">
 <img width="200" height="200" src="https://media.giphy.com/media/gLRTwEwvBlhLBYThOq/giphy.gif?cid=ecf05e47dhz40tv9h61aztdox5q2d1kkyw9ut1i667pp4arr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
