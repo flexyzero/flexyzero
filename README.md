@@ -323,7 +323,7 @@ model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy']
 model.fit(X_train, y_train, epochs=10, batch_size=32)  
 
 # Use the AI model for predictions
-predictions = model.predict(X_test) 
+predictions = model.predict(X_test)    
 
 ``` 
 
