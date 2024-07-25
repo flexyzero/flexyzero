@@ -350,17 +350,17 @@ X = data.drop('target', axis=1)
 y = data['target']
 
 # Split the dataset into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)  
 
 # Train a logistic regression model
-model = LogisticRegression()
+model = LogisticRegression()  
 model.fit(X_train, y_train)
 
 # Make predictions on the test set
 predictions = model.predict(X_test)
 
 # Calculate the accuracy of the model
-accuracy = accuracy_score(y_test, predictions)
+accuracy = accuracy_score(y_test, predictions) 
 
 ```
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
